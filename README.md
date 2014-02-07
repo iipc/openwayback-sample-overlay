@@ -52,7 +52,7 @@ and is configured to read the sample cdx and warc. The cdx contains one entry fo
 
 If successful, the following paths will be accessible:
 
-* **Calendar Page:** [http://localhost:8080/wayback/*/http://example.com]([http://localhost:8080/wayback/*/http://example.com)
+* **Calendar Page:** [http://localhost:8080/wayback/*/http://example.com](http://localhost:8080/wayback/*/http://example.com)
 
 * **Capture Replay:** [http://localhost:8080/wayback/20140206032125/http://example.com](http://localhost:8080/wayback/20140206032125/http://example.com)
 
